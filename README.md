@@ -30,6 +30,8 @@ phpmyadmin giriş bilgileri
 
 #### Not
 - proje dizinindeki case.postman_collection.json postman'a import edip endpointleri deneye bilirisiniz
+- testleri docker ile çalıştırmak için `docker-compose exec app php artisan test` docker ile
+- normal kullanım için proje dizininde  `php artisan test`
  
 
 #### Kullanılan Teknolojiler
