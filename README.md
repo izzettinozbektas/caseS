@@ -8,7 +8,7 @@
 >
 > http://localhost:5050 den pgadmin
 >
-phpmyadmin giriş bilgileri
+pgadmin giriş bilgileri
 - giriş bilgileri ->
 - `email: admin@admin.com` 
 - `password: admin`
